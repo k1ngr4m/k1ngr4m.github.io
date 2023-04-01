@@ -58,9 +58,15 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
-  preload: false
+  enable: true
+  preload: true
   CDN:
+
+search:
+ path: search.xml
+ field: post
+ content: true
+ template: ./search.xml
 
 # Docsearch
 # https://docsearch.algolia.com/
