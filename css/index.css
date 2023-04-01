@@ -1389,6 +1389,21 @@ body {
 input::placeholder {
   color: var(--font-color);
 }
+#web_bg {
+  position: fixed;
+  z-index: -999;
+  width: 100%;
+  height: 100%;
+  background: -webkit-linear-gradient(70deg, #0f182a, #262547, #15253f, #4f77b4);
+  background: -moz-linear-gradient(70deg, #0f182a, #262547, #15253f, #4f77b4);
+  background: -o-linear-gradient(70deg, #0f182a, #262547, #15253f, #4f77b4);
+  background: -ms-linear-gradient(70deg, #0f182a, #262547, #15253f, #4f77b4);
+  background: linear-gradient(20deg, #0f182a, #262547, #15253f, #4f77b4);
+  background-attachment: local;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 h1,
 h2,
 h3,
@@ -3156,6 +3171,13 @@ h1.page-title + .tag-cloud-list {
   background-attachment: scroll;
   background-position: bottom;
   background-size: cover;
+}
+#footer:before {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+  content: '';
 }
 #footer-wrap {
   position: relative;
