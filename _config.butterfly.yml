@@ -700,7 +700,7 @@ aside:
       link: https://github.com/k1ngr4m
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: Welcome to k1ngr4m's blog
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
