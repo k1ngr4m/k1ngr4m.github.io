@@ -1,0 +1,7 @@
+- class_name: 友情链接
+  class_desc:
+  link_list:
+  - name: 霜序廿
+    link: https://shuangxunian.github.io/
+    avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=2749909223&spec=5
+    descr: 一个爱算法的小前端
