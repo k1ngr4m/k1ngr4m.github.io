@@ -102,7 +102,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://file.crazywong.com/gh/jerryc127/butterfly_cdn@2.1.0/top_img/index.jpg
+index_img: https://s1.ax1x.com/2023/04/01/ppWV97F.png
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
@@ -533,10 +533,10 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background:
+background: 'linear-gradient(20deg, #0f182a, #262547, #15253f, #4f77b4)'
 
 # Footer Background
-footer_bg: false
+footer_bg: 'linear-gradient(20deg, #0f182a, #262547, #15253f, #4f77b4)'
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
