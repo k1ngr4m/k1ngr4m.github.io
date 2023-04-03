@@ -111,8 +111,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-#index_img: https://s1.ax1x.com/2023/04/01/ppWV97F.png
-index_img: https://github.com/k1ngr4m/k1ngr4m.github.io/blob/main/source/_pics/background.png?raw=true
+index_img: https://k1ngr4m-github-1309147067.cos.ap-shanghai.myqcloud.com/img/blog_background.png
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
